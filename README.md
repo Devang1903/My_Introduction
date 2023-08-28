@@ -21,6 +21,7 @@ I am a passionate developer with a strong interest in various programming langua
 - **Pace Junior College Borivai**
   - HSC (12th Grade)
   - Score: 88.92%
+  - CET Score:95 percentile
 
 - **Bharti Vidyapeeth College of Engineering**
   - Computer Engineering
