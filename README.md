@@ -1,7 +1,7 @@
 # Devang Dasharath Sawant - Portfolio
 
-Welcome to my portfolio!
-This README file provides an overview of my profile, education, skills, interests, and more!!!!
+Welcome to my portfolio!!
+This README file provides an overview of my profile, education, skills, interests, and more.
 
 ## Contact
 
