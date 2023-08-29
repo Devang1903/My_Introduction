@@ -1,6 +1,7 @@
 # Devang Dasharath Sawant - Portfolio
 
-Welcome to my portfolio! This README file provides an overview of my profile, education, skills, interests, and more.
+Welcome to my portfolio!!
+This README file provides an overview of my profile, education, skills, interests, and more.
 
 ## Contact
 
@@ -15,10 +16,12 @@ I am a passionate developer with a strong interest in various programming langua
 ## Education
 
 - **RPD Highschool Sawantwadi**
+
   - SSC (10th Grade)
   - Score: 97.20%
 
 - **Pace Junior College Borivai**
+
   - HSC (12th Grade)
   - Score: 88.92%
   - CET Score:95 percentile
